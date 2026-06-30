@@ -43,5 +43,9 @@ Our solution integrates multiple sensors with intelligent threshold verification
 Guided by **Ms. G. Brindha, M.E., Assistant Professor**  
 Department of AI & DS, Dr. NGP Institute of Technology
 
+## Documentation
+Full project report available: [fire.pdf](fire.pdf)
+
+
 ## Conclusion
 This project demonstrates a cost-effective, scalable fire detection system with quick response and real-time alerts, contributing to improved safety in everyday environments.
